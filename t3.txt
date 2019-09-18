@@ -1,1 +1,3 @@
 yes and no
+yes or no
+
